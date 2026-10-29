@@ -1,0 +1,5 @@
+../Core/Src/motor_control.c:38:13:Motor_SetPWM	16	static
+../Core/Src/motor_control.c:64:13:Motor_Stop	8	static
+../Core/Src/motor_control.c:78:13:Motor_CalcSpeed	56	static
+../Core/Src/motor_control.c:127:6:MotorControl_Init	8	static
+../Core/Src/motor_control.c:152:6:Task_MotorControl	48	static

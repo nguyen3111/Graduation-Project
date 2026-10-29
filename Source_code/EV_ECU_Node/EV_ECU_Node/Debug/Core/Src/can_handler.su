@@ -1,0 +1,9 @@
+../Core/Src/can_handler.c:52:26:CAN_SendFrame	56	static
+../Core/Src/can_handler.c:72:13:CAN_Send_0x100	24	static
+../Core/Src/can_handler.c:84:13:CAN_Send_0x101	24	static
+../Core/Src/can_handler.c:97:13:CAN_Send_0x102	24	static
+../Core/Src/can_handler.c:117:13:CAN_Send_0x103	24	static
+../Core/Src/can_handler.c:136:6:HAL_CAN_RxFifo0MsgPendingCallback	64	static
+../Core/Src/can_handler.c:166:6:CANHandler_Init	48	static
+../Core/Src/can_handler.c:197:6:Task_CANTransmit	56	static
+../Core/Src/can_handler.c:244:6:Task_CANReceive	56	static

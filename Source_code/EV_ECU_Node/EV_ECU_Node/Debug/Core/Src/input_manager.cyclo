@@ -1,0 +1,9 @@
+../Core/Src/input_manager.c:104:13:ADC_StartDMA	1
+../Core/Src/input_manager.c:111:17:ADC_GetChannel	2
+../Core/Src/input_manager.c:121:13:Debounce_Update	4
+../Core/Src/input_manager.c:144:23:ReadGear	9
+../Core/Src/input_manager.c:178:20:ReadDriveMode	7
+../Core/Src/input_manager.c:204:6:InputManager_Init	1
+../Core/Src/input_manager.c:212:10:InputManager_GetAccelRaw	1
+../Core/Src/input_manager.c:217:10:InputManager_GetBattRaw	1
+../Core/Src/input_manager.c:232:6:Task_InputScan	2

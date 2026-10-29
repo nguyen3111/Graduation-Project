@@ -1,0 +1,5 @@
+../Core/Src/motor_control.c:38:13:Motor_SetPWM	3
+../Core/Src/motor_control.c:64:13:Motor_Stop	1
+../Core/Src/motor_control.c:78:13:Motor_CalcSpeed	4
+../Core/Src/motor_control.c:127:6:MotorControl_Init	1
+../Core/Src/motor_control.c:152:6:Task_MotorControl	5

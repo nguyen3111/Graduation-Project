@@ -1,0 +1,4 @@
+../Core/Src/battery_manager.c:61:17:ADC_ToPackVoltage_mV	24	static
+../Core/Src/battery_manager.c:79:16:Voltage_ToSoC	32	static
+../Core/Src/battery_manager.c:119:6:BatteryManager_Init	4	static
+../Core/Src/battery_manager.c:134:6:Task_BatteryManager	104	static

@@ -1,0 +1,16 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>main.qml</file>
+
+        <file>UI/OffScreen.qml</file>
+        <file>UI/BootAnimation.qml</file>
+        <file>UI/ChargingScreen.qml</file>
+        <file>UI/ChargingStopAnimation.qml</file>
+        <file>UI/FaultOverlay.qml</file>
+        <file>UI/ShutdownAnimation.qml</file>
+        <file>UI/StandbyScreen.qml</file>
+
+        <file>UI/car.png</file>
+    </qresource>
+</RCC>
